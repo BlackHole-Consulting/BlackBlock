@@ -17,19 +17,11 @@ pip3 install BlackBlock
 BlackBlock
 
 ```
-![image](https://user-images.githubusercontent.com/60758685/218946524-4952865e-cdaf-4c03-b1d8-0721d24d8e2b.png)
 
 ## Deploy your node
 
-```Bash
+[![asciicast](https://asciinema.org/a/3Pq13dCtGOzwpLtHo9Ck9p4E0.svg)](https://asciinema.org/a/3Pq13dCtGOzwpLtHo9Ck9p4E0)
 
-use setup 
-
-install_node
-
-back
-
-```
 
 ## Usage 
 
