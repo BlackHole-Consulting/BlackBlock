@@ -33,7 +33,7 @@ back
 
 ## Usage 
 
-[![asciicast](https://asciinema.org/a/sz5aGbAc0gJ9bPZ5bLcCbdMAo.svg)](https://asciinema.org/a/sz5aGbAc0gJ9bPZ5bLcCbdMAo)
+[![asciicast](https://asciinema.org/a/d0vMqlKzRxa74goRXLGxuqCkd.svg)](https://asciinema.org/a/d0vMqlKzRxa74goRXLGxuqCkd)
 
 ```Python
 
