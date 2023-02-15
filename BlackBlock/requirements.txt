@@ -1,0 +1,11 @@
+lxml
+elasticsearch==7.0
+pytz
+colorama
+requests
+libeospy
+prettytable
+eciespy
+rich
+flask
+flasgger

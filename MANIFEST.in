@@ -1,0 +1,4 @@
+include BlackBlock/*
+include BlackBlock/resources/*
+include BlackBlock/modules/resources/*
+include BlackBlock/lib/contracts/*

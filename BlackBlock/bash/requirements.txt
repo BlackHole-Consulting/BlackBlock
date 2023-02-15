@@ -1,0 +1,7 @@
+lxml
+rich
+colorama
+requests
+prettytable
+eciespy
+elasticsearch
