@@ -14,13 +14,14 @@ BLACKBLOCK IOT BLOCK, allow to manage BLACKBLOCK IOT devices with blockchain com
 
 pip3 install BlackBlock
 
+BlackBlock
+
 ```
+![image](https://user-images.githubusercontent.com/60758685/218946524-4952865e-cdaf-4c03-b1d8-0721d24d8e2b.png)
 
 ## Deploy your node
 
 ```Bash
-
-BlackBlock
 
 use setup 
 
@@ -34,8 +35,6 @@ back
 
 ```Bash
 
-BlackBlock
-
 use block
 
 core get info
@@ -43,9 +42,7 @@ core get info
 options
 
 
-
-
-
 ```
 
+![image](https://user-images.githubusercontent.com/60758685/218946691-c615eff3-a224-406b-bdb7-5fa2472f1425.png)
 
