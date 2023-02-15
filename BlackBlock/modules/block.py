@@ -36,7 +36,7 @@ import BlackBlock.modules.resources.config as conf
 from rich.console import Console
 
 ## Elk
-from BlackBlock.lib.elk import *
+#from BlackBlock.lib.elk import *
 
 
 console = Console()

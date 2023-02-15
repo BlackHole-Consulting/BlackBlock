@@ -22,7 +22,7 @@ try:
 	import signal
 	import sys
 ## elasticsearch
-	from BlackBlock.lib.elk import *
+	#from BlackBlock.lib.elk import *
 except KeyboardInterrupt:
 	print(GREEN + "\n[I] Shutting down..." + END)
 	raise SystemExit

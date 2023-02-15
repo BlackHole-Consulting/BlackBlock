@@ -15,7 +15,7 @@ import requests
 import json
 import BlackBlock.modules.resources.config as conf
 ## Elk
-from BlackBlock.lib.elk import *
+#from BlackBlock.lib.elk import *
 pypatch = os.path.realpath(os.path.dirname(__file__))+'/../'
 
 CURRENCY = 'IDB'

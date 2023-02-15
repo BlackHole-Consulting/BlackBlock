@@ -12,7 +12,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='BlackBlock',
-    version='1.0.2',
+    version='1.0.4',
     author='BlackHole-Consulting',
     author_email='',
     description='BLACKBLOCK IOT BLOCK, allow to manage BLACKBLOCK IOT devices with blockchain communications using the blockchain transactions as a communication mechanism to interactive and aployment devices and monitorize the events in the network, encrypted with ECC keys .',
