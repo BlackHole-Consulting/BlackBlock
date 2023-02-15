@@ -33,6 +33,8 @@ back
 
 ## Usage 
 
+[![asciicast](https://asciinema.org/a/sz5aGbAc0gJ9bPZ5bLcCbdMAo.svg)](https://asciinema.org/a/sz5aGbAc0gJ9bPZ5bLcCbdMAo)
+
 ```Python
 
 use block
